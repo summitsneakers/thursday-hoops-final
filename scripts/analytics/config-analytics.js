@@ -12,8 +12,9 @@
 
 const configs = {
   tenantId: '_dcbl',
-  edgeConfigId: '4bdc9914-9463-4627-b7ba-048493ab998d',
+  edgeConfigId: 'e22717aa-fbe9-4fd1-ba84-84cf2f3513d7',
   orgId: '6D9FE18C5536A5E90A4C98A6@AdobeOrg',
 };
 
 export default configs;
+
